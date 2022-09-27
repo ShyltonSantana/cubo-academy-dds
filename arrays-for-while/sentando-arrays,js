@@ -1,0 +1,9 @@
+const numeros = [1, 2, 3, 4, 5]
+const nomes = ["joao", "maria", "jose", "pedro", "paula"];
+const x = 3;
+nomes[0] = "jonas";
+nomes[1] = "jonas";
+nomes[2] = "jonas";
+nomes[3] = "jonas";
+nomes[4] = x;
+console.log(nomes);
